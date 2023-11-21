@@ -1,15 +1,21 @@
 function Home(){
 return (
-<header>
-<h1>
-    welcome to house hunt 
-</h1>
-<div>
-    <p>
-        serving you is our delight
-    </p>
-</div>
-</header>
+    <>
+
+     <main className="main-content">
+        <section className="section">
+          <h2>Welcome to house hunt</h2>
+          <p> serving you is our delight.</p>
+
+          <div className="search-container">
+            <input type="text" placeholder="Search..." />
+            <button>Search</button>
+          </div>
+        </section>
+      </main>
+
+    </>
+
 
 
 )
