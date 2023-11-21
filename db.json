@@ -1,0 +1,335 @@
+{
+    "houses": [
+        {
+            "id": "1",
+            "type": "Apartment",
+            "description": "A well placed 3 Bedroomed apartment in the heart of Ongata Rongai where access to almost everything in the area comes with it.",
+            "location": "Ongata Rongai, Nairobi",
+            "image": "https://images.prop24.com/zk4ilze6dzstax2d3slhuj5t6e/Crop237x198",
+            "price": "165",
+            "transactionType": "To rent",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        },
+        {
+            "id": "2",
+            "type": "Apartment",
+            "description": "3 Bedroom Apartment with a well gated community which offers a blend of occupation.",
+            "location": "Spring Valley, Nairobi",
+            "image": "https://images.prop24.com/cl5ectnv4wsnifrfasi6rvqrfi/Crop676x507",
+            "price": "14485",
+            "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.comddddd"
+        }, 
+        {
+            "id": "3",
+            "type": "studio",
+            "description": "A conviniently placed apartment that serves the numerous amounts of institutions around for comrades.",
+            "location": "Lower Kabete, Nairobi",
+            "image": "https://images.prop24.com/a347fanvb7h4qljs2lhmhjrnpi/Crop237x198",
+            "price": "132",
+            "transactionType": "To rent",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "4",
+            "type": "Townhouse",
+            "description": "An Architectural Masterpiece with 4 Bedrooms and showcases a great marbled exterior with an even better interior.",
+            "location": "Karen, Nairobi",
+            "image": "https://images.prop24.com/plm43pyj2j5iqnlqkqdvq2dgju/Crop237x198",
+            "price": "660000",
+            "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "5",
+            "type": "Townhouse",
+            "description": "Contemporary house all ensuite with 2 staff quaters and 5 Bedrooms for sale in Karen.",
+            "location": "Kitusuri, Nairobi",
+            "image": "https://images.prop24.com/ux4omkkonk2brbv5wdmemtru5i/Crop237x198",
+            "price": "646000",
+            "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "6",
+            "type": "Apartment",
+            "description": "2 Bedroom Master En-suite Apartment For Rent in Syokimau.",
+            "location": "Syokimau, Nairobi",
+            "image": "https://images.prop24.com/zcqwg5b3sweqrv44sh2zvyi4cy/Crop237x198",
+            "price": "1050",
+            "transactionType": "To rent",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "7",
+            "type": "House",
+            "description": "Spacious 4 Bedroom House All Ensuite with a staff quaters and in close proximity to Lavington Mall.",
+            "location": "Lavington, Nairobi",
+            "image": "https://images.prop24.com/t6zvk2icpeubit7mcfa5dunt4y/Crop237x198",
+            "price": "1980",
+            "transactionType": "To rent",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "8",
+            "type": "Vacant Land",
+            "description": "Half an Acre of land with a regular shape, serviced well, with a good sewer system and easily acessible.",
+            "location": "Westlands, Nairobi",
+            "image": "https://images.prop24.com/b7lrqtaurfhzk3cpm2oollol2i/Crop237x198",
+            "price": "1450450",
+            "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "9",
+            "type": "Mansion",
+            "description": "Renowned as Kenya's one of the most expensive home, this architectural masterpiece stands as a testament to opulence and innovation.",
+            "location": "Bus Stop, Nairobi",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ391FF3-DgHmlTy36Xpt38QrkwjLPIslVhVbeO7oZiA&s",
+            "price": "5500000",
+            "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "10",
+            "type": "Apartment",
+            "description": "Prime Investment Opportunity that is Conveniently located in one of Nairobi's fastest growing suburbs with 2 bedrooms.",
+            "location": "Kileleshwa, Nairobi",
+            "image": "https://i.roamcdn.net/prop/brk/listing-full-1920w/8b51e227eb64e14f65ad83be7610dd2a/-/prod-property-core-backend-media-brk/6034315/50839670-8b83-4f43-b7cc-0b6ef312b307.jpg",
+            "price": "93000",
+            "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "11",
+            "type": "Beach House",
+            "description": "These are two exceptional adjoining properties in the prestigious Tudor Creek area of Mombasa County.",
+            "location": "Tudor Creek, Mombasa",
+            "image": "https://content.knightfrank.com/property/hub2303221/images/26a677ac-ce18-42a7-9986-ffa56190148a-0.jpg?cio=true&w=1200",
+            "price": "118108",
+            "transactionType": "For sale",
+            "name": "Caith Wangari",
+            "email": "cawaka1996@gmail.com"
+        }, 
+        {
+            "id": "12",
+            "type": "Apartment",
+            "description": "A beautiful beachfront apartment that has two bedrooms, a modern fitted kitchen, living and dining, utility room with integrated washer/dryer.",
+            "location": "Nyali, Mombasa",
+            "image": "https://content.knightfrank.com/property/mbs180010/images/d59c8951-7c92-4512-8e25-2d5ddcb0d0a1-0.jpg?cio=true&w=1200",
+            "price": "2800",
+            "transactionType": "To rent",
+            "name": "Caith Wangari",
+            "email": "cawaka1996@gmail.com"
+        },
+        {
+            "id": "13",
+            "type": "Apartment",
+            "description": "This fully furnished 4 bedroom penthouse is situated along Baobab road and offers spectacular views of the Indian Ocean.",
+            "location": "Nyali, Coast",
+            "image": "https://content.knightfrank.com/property/mbs190019/images/084105f7-ae98-4cb4-992e-d5b6c30051e0-0.jpg?cio=true&w=1200",
+            "price": "990",
+            "transactionType": "To rent",
+            "name": "Caith Wangari",
+            "email": "cawaka1996@gmail.com"
+        },
+        {
+            "id": "14",
+            "type": "House",
+            "description": "Shanzu 5 bedroom maisonette for sale, sea view house with only 100 meters from the sandy beach, all bedroom are en suite.",
+            "location": "Shanzu, Mombasa",
+            "image": "https://images.prop24.com/n2rl3iy2wtx34bckyaxff45dje/Crop237x198",
+            "price": "855910",
+            "transactionType": "For sale",
+            "name": "Caith Wangari",
+            "email": "cawaka1996@gmail.com"
+        },
+        {
+            "id": "15",
+            "type": "Apartment",
+            "description": "Executive & beautiful 2 bedrooms apartment with swimming pool",
+            "location": "Nyali, Mombasa",
+            "image": "https://images.prop24.com/upi5lokifhhs7i332nfuevperi/Crop237x198",
+            "price": "79000",
+            "transactionType": "For sale",
+            "name": "Caith Wangari",
+            "email": "cawaka1996@gmail.com"
+        },
+        {
+            "id": "16",
+            "type": "Vacant Land",
+            "description": "This Affordable Eighth Acre Plots for Sale in Naivasha near Naivasha Town have ready title deeds.",
+            "location": "Nanyuki, Naivasha",
+            "image": "https://images.prop24.com/goy5ozyod36f3sm7l5hpctyaju/Crop237x198",
+            "price": "2170",
+            "transactionType": "For sale",
+            "name": "Juma Wanjiru",
+            "email": "wanjiru123@gmail.com"
+        },
+        {
+            "id": "17",
+            "type": "Bungalow",
+            "description": "A great bungalow that has easy access using tarmac roads",
+            "location": "Mugambi, Naivasha",
+            "image": "https://images.prop24.com/m2tggpknftibw2nigc3nwvybkq/Crop237x198",
+            "price": "138260",
+            "transactionType": "For sale",
+            "name": "Juma Wanjiru",
+            "email": "wanjiru123@gmail.com"
+        },
+        {
+            "id": "18",
+            "type": "Vacant Land",
+            "description": "A Prime Lakeview property located in Kongoni, Naivasha measuring 1.5 acres.",
+            "location": "Naivasha",
+            "image": "https://images.prop24.com/bduchof6ithfjxvjyipp4bxfia/Crop237x198",
+            "price": "115220",
+            "transactionType": "For sale",
+            "name": "Juma Wanjiru",
+            "email": "wanjiru123@gmail.com"
+        },
+        {
+            "id": "19",
+            "type": "House",
+            "description": " A 4 bedroomed house that has a spacious lounge with fireplace, kitchen with a spacious pantry, cloakroom, big store for master bedroom and a wide spacious verandah with a fireplace",
+            "location": "Naivasha",
+            "image": "https://images.prop24.com/fbiu5iqkzholqejpoirnqqf6uq/Crop237x198",
+            "price": "362100",
+            "transactionType": "For sale",
+            "name": "Juma Wanjiru",
+            "email": "wanjiru123@gmail.com"
+        },
+        {
+            "id": "20",
+            "type": "Apartment",
+            "description": "Notable Features *2 Bedrooms * Location: Bondeni Area, Nakuru * Project Status: Ongoing",
+            "location": "Bondeni, Naivasha",
+            "image": "https://images.prop24.com/ekcr7jixyetrayw5ryukkfyrgm/Crop237x198",
+            "price": "150",
+            "transactionType": "To rent",
+            "name": "Juma Wanjiru",
+            "email": "wanjiru123@gmail.com"
+        },
+        {
+            "id": "21",
+            "type": "Ranch House",
+            "description": "Beautifully designed 4 bed ranch house for Sale at Kedong Ranch in Naivasha on 25-acres, with three cottages",
+            "location": "South Lake Road, Naivasha",
+            "image": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/73444be8ac0cf2fa0228161903803041/-/prod-property-core-backend-media-brk/4469060/2fb3bb31-abbd-4901-9bf0-67ec9ac80304.jpeg",
+            "price": "1086350",
+            "transactionType": "For sale",
+            "name": "Auma Nyambura",
+            "email": "aumanyambs@gmail.com"
+        },
+        {
+            "id": "22",
+            "type": "House",
+            "description": "SPECTACULAR FULLY FURNISHED 5 BED HOUSE ON 5 ACRES FOR SALE AT GREAT RIFT VALLEY LODGE, GREENPARK NAIVASHA.",
+            "location": "Greenpark, Naivasha",
+            "image": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/debd222bc89649f7ded5c24e7827867e/-/prod-property-core-backend-media-brk/4227035/fa92dc37-2df5-4743-b09e-fad08d569d79.jpg",
+            "price": "480000",
+            "transactionType": "For sale",
+            "name": "Auma Nyambura",
+            "email": "aumanyambs@gmail.com"
+        },
+        {
+            "id": "23",
+            "type": "House",
+            "description": "ATTRACTIVE 2 X 3 BEDROOM HOUSES ON 1.3 ACRES FOR SALE IN GILGIL NEAR PEMBROKE",
+            "location": "Naivasha",
+            "image": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/f0134cf9778a165ad2f2eb68ed064770/-/prod-property-core-backend-media-brk/4850840/084c95fd-cd05-4b4a-99da-ab0876894c1d.jpeg",
+            "price": "790",
+            "transactionType": "To rent",
+            "name": "Auma Nyambura",
+            "email": "aumanyambs@gmail.com"
+        },
+        {
+            "id": "24",
+            "type": "House",
+            "description": "4 Bedroom house ensuite with spacious lounge with fireplace, dining ,kitchen with a spacious pantry, cloakroom and big store for master bedroom, wide spacious verandah with a fireplace, big deck with beautiful view of Lake Naivasha and Mt Longonot",
+            "location": "Naivasha Nakuru County, Naivasha",
+            "image": "https://images.prop24.com/sey3yv7wvsab4lx5mnpl3lqiya/Crop237x198",
+            "price": "360655",
+            "transactionType": "For sale",
+            "name": "Auma Nyambura",
+            "email": "aumanyambs@gmail.com"
+        },
+        {
+            "id": "25",
+            "type": "Apartment",
+            "description": "Exclusive fully furnished Kilimani 2 Bedrooms apartment",
+            "location": "Naivasha",
+            "image": "https://images.prop24.com/jciwzq46aufsz2f2t3b7fwp4fy/Crop237x198",
+            "price": "1640",
+            "transactionType": "To rent",
+            "name": "Auma Nyambura",
+            "email": "aumanyambs@gmail.com"
+        },
+        {
+            "id": "26",
+            "type": "Townhouse",
+            "description": "4 bedroom townhouse within a compound of 6units Each Unit Sitting on 1/8acre Plots.",
+            "location": "Elgon View Area, Eldoret",
+            "image": "https://images.prop24.com/kidnvpeqjbvwyxxwf3csrsjcxu/Crop237x198",
+            "price": "125090",
+            "transactionType": "For sale",
+            "name": "Muthoni Gichuru",
+            "email": "muthoni@gmail.com"
+        },
+        {
+            "id": "27",
+            "type": "Warehouse",
+            "description": "These warehouses are located along the main Nakuru – Eldoret – Malaba highway",
+            "location": "Eldoret CBD, Eldoret",
+            "image": "https://images.prop24.com/t2rd2qhw676ufvo4fmzkpqeb3y/Crop237x198",
+            "price": "460",
+            "transactionType": "To rent",
+            "name": "Muthoni Gichuru",
+            "email": "muthoni@gmail.com"
+        },
+        {
+            "id": "28",
+            "type": "4 Bedroom House",
+            "description": "This beautiful home has 4 lovely bedrooms that are extremely spacious.",
+            "location": "Eldoret CBD, Eldoret",
+            "image": "https://images.prop24.com/hw2cea5l3kzebyhsnhijowxrsm/Crop237x198",
+            "price": "530",
+            "transactionType": "To rent",
+            "name": "Muthoni Gichuru",
+            "email": "muthoni@gmail.com"
+        },
+        {
+            "id": "29",
+            "type": "Apartment",
+            "description": "A three bedroomed apartment with a welcoming neighbourhood and top notch security",
+            "location": "Elgon View Area, Eldoret",
+            "image": "https://images.prop24.com/ngpofwpdmcmkyxnp7lowdnezda/Crop237x198",
+            "price": "980",
+            "transactionType": "To rent",
+            "name": "Muthoni Gichuru",
+            "email": "muthoni@gmail.com"
+        },
+        {
+            "id": "30",
+            "type": "House",
+            "description": "Newly built house soon to be home within a gated community -Lovely NEIGHBORHOOD -4 very spacious rooms -Modern finished",
+            "location": "Eldoret CBD, Eldoret",
+            "image": "https://images.prop24.com/gdnbkiignkgd6j6wem7hst4ku4/Crop237x198",
+            "price": "91800",
+            "transactionType": "For sale",
+            "name": "Muthoni Gichuru",
+            "email": "muthoni@gmail.com"
+        }
+
+    ]
+}
