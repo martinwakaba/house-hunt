@@ -12,6 +12,8 @@ const CommentForm = ({ addComment }) => {
     }
   };
 
+  
+
   return (
     <form className="comment-form" onSubmit={handleSubmit}>
     <textarea
