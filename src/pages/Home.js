@@ -51,7 +51,7 @@ function Home() {
       </main>
 
       <section className="featured-properties">
-        <h2>Search Results</h2>
+        <h2>Houses</h2>
         <p className="featured-description">
         {filteredHouses.length === 0
             ? "No matches found."
