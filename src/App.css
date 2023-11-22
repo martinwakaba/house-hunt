@@ -29,7 +29,7 @@ body {
 .nav-links {
   display: flex;
   align-items: center;
-  margin-left: auto; /* Move the links to the right */
+  margin-left: auto; 
 }
 
 .nav-link {
