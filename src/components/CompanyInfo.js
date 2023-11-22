@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactInfo from '../pages/Contact'
+
 
 const CompanyInfo = ({ email }) => {
   return (
