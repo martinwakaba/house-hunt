@@ -20,11 +20,11 @@
             "price": "14485",
             "transactionType": "For sale",
             "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.comddddd"
+            "email": "ketkahthuo@gmail.com"
         }, 
         {
             "id": "3",
-            "type": "studio",
+            "type": "Studio",
             "description": "A conviniently placed apartment that serves the numerous amounts of institutions around for comrades.",
             "location": "Lower Kabete, Nairobi",
             "image": "https://images.prop24.com/a347fanvb7h4qljs2lhmhjrnpi/Crop237x198",
