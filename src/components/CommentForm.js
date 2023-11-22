@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import CommentForm from '../pages/Contact'
+
 
 const CommentForm = ({ addComment }) => {
   const [comment, setComment] = useState('');

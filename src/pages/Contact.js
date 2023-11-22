@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
-import CommentForm from './components/CommentForm';
-import CompanyInfo from './components/CompanyInfo';
-
-const ContactUs = () => {
+import CommentForm from '../components/CommentForm';
+import CompanyInfo from '../components/CompanyInfo';
+const Contact = () => {
   const [comments, setComments] = useState([]);
 
   const addComment = (newComment) => {
