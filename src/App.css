@@ -10,7 +10,8 @@ body {
   align-items: center;
   padding: 30px 40px;
   background-color: #f0f0f0;
-  color: rgb(255, 255, 255);
+  border-bottom:2px solid #2c3e50;
+  color: rgb(241, 137, 137);
 }
 
 .logo-container {

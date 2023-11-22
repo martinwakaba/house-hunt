@@ -47,11 +47,11 @@ return (
               <h3>Type: {house.type}</h3>
               <p>{house.description}</p>
               <p>Location: {house.location}</p>
-              <p>Price:Ksh {house.price}</p>
+              <p>Price:USD {house.price}</p>
               <p>{house.transactionType}</p>
               <p>Agent: {house.name}</p>
               <p>Contact: {house.email}</p>
-              {/* Add more details as needed */}
+             
             </div>
           </div>
         ))}
