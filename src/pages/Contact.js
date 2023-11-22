@@ -9,18 +9,27 @@ const Contact = () => {
   };
 
   return (
-    <div>
-      <h1>CONTACT US</h1>
-      <CompanyInfo email="info@househunt.com" />
-     <hr />
+    <div className="contact-container">
+    <div className="header">
+      <h1>Contact Us</h1>
+    </div>
+    <div className="comments-section">
       <h2>Comments</h2>
       <CommentForm addComment={addComment} />
-      <ul>
+      <ul className="comment-list">
         {comments.map((comment, index) => (
-          <li key={index}>{comment}</li>
+          <li key={index} className="comment-item">
+            {comment}
+          </li>
         ))}
       </ul>
     </div>
+    <div className="company-info">
+      <CompanyInfo email="info@househunt.com" />
+    </div>
+    <hr className="divider" />
+    
+  </div>
   );
 };
 
