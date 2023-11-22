@@ -1,13 +1,13 @@
 {
     "houses": [
         {
-            "id": "1",
-            "type": "Apartment",
-            "description": "A well placed 3 Bedroomed apartment in the heart of Ongata Rongai where access to almost everything in the area comes with it.",
-            "location": "Ongata Rongai, Nairobi",
-            "image": "https://images.prop24.com/zk4ilze6dzstax2d3slhuj5t6e/Crop237x198",
-            "price": "165",
-            "transactionType": "To rent",
+            "id": "9",
+            "type": "Mansion",
+            "description": "Renowned as Kenya's one of the most expensive home, this architectural masterpiece stands as a testament to opulence and innovation.",
+            "location": "Bus Stop, Nairobi",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ391FF3-DgHmlTy36Xpt38QrkwjLPIslVhVbeO7oZiA&s",
+            "price": "5500000",
+            "transactionType": "For sale",
             "name": "Kenneth Thuo",
             "email": "ketkahthuo@gmail.com"
         },
@@ -23,17 +23,6 @@
             "email": "ketkahthuo@gmail.com"
         }, 
         {
-            "id": "3",
-            "type": "Studio",
-            "description": "A conviniently placed apartment that serves the numerous amounts of institutions around for comrades.",
-            "location": "Lower Kabete, Nairobi",
-            "image": "https://images.prop24.com/a347fanvb7h4qljs2lhmhjrnpi/Crop237x198",
-            "price": "132",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
-        }, 
-        {
             "id": "4",
             "type": "Townhouse",
             "description": "An Architectural Masterpiece with 4 Bedrooms and showcases a great marbled exterior with an even better interior.",
@@ -41,6 +30,17 @@
             "image": "https://images.prop24.com/plm43pyj2j5iqnlqkqdvq2dgju/Crop237x198",
             "price": "660000",
             "transactionType": "For sale",
+            "name": "Kenneth Thuo",
+            "email": "ketkahthuo@gmail.com"
+        }, 
+        {
+            "id": "3",
+            "type": "Studio",
+            "description": "A conviniently placed apartment that serves the numerous amounts of institutions around for comrades.",
+            "location": "Lower Kabete, Nairobi",
+            "image": "https://images.prop24.com/a347fanvb7h4qljs2lhmhjrnpi/Crop237x198",
+            "price": "132",
+            "transactionType": "To rent",
             "name": "Kenneth Thuo",
             "email": "ketkahthuo@gmail.com"
         }, 
@@ -89,13 +89,13 @@
             "email": "ketkahthuo@gmail.com"
         }, 
         {
-            "id": "9",
-            "type": "Mansion",
-            "description": "Renowned as Kenya's one of the most expensive home, this architectural masterpiece stands as a testament to opulence and innovation.",
-            "location": "Bus Stop, Nairobi",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ391FF3-DgHmlTy36Xpt38QrkwjLPIslVhVbeO7oZiA&s",
-            "price": "5500000",
-            "transactionType": "For sale",
+            "id": "1",
+            "type": "Apartment",
+            "description": "A well placed 3 Bedroomed apartment in the heart of Ongata Rongai where access to almost everything in the area comes with it.",
+            "location": "Ongata Rongai, Nairobi",
+            "image": "https://www.businessdailyafrica.com/resource/blob/2129122/fca89506d4bfccea0b065f92259df777/pent1-data.jpg",
+            "price": "165",
+            "transactionType": "To rent",
             "name": "Kenneth Thuo",
             "email": "ketkahthuo@gmail.com"
         }, 
