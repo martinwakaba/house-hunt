@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
-import CommentForm from './CommentForm';
-import CompanyInfo from './components/CompanyInfo';
-
-const ContactUs = () => {
+import CommentForm from '../components/CommentForm';
+import CompanyInfo from '../components/CompanyInfo';
+const Contact = () => {
   const [comments, setComments] = useState([]);
 
   const addComment = (newComment) => {
@@ -11,9 +10,9 @@ const ContactUs = () => {
 
   return (
     <div>
-      <h1>Contact Us</h1>
+      <h1>CONTACT US</h1>
       <CompanyInfo email="info@househunt.com" />
-      <hr />
+     <hr />
       <h2>Comments</h2>
       <CommentForm addComment={addComment} />
       <ul>
