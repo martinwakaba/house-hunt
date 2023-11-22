@@ -51,7 +51,7 @@ return (
               <p>{house.transactionType}</p>
               <p>Agent: {house.name}</p>
               <p>Contact: {house.email}</p>
-             
+              
             </div>
           </div>
         ))}
