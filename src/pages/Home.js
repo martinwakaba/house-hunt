@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Footer from "../components/Footer";
 
 function Home() {
   const [houses, setHouses] = useState([]);
@@ -75,6 +76,8 @@ function Home() {
           </div>
         ))}
       </section>
+        <Footer />
+     
     </>
   );
 }
