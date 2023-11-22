@@ -9,15 +9,12 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <>
-    <Navbar/>
-    <Routes>
-    <Route path='/' element={<Home/>}></Route>
-    <Route Path='/home' element={<Home/>}></Route>
-    <Route path='/contact'element={<Contact/>}></Route>
-    </Routes>
-
-    {/* <Home /> */}
-
+    <Navbar />
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='/home' element={<Home />} />
+        <Route path='/contact' element={<Contact />} />
+      </Routes>
 
     
     </>
