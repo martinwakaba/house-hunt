@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import CommentForm from './components/CommentForm';
+import CommentForm from './CommentForm';
 import CompanyInfo from './components/CompanyInfo';
 
 const ContactUs = () => {
