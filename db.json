@@ -263,73 +263,8 @@
             "transactionType": "For sale",
             "name": "Auma Nyambura",
             "email": "aumanyambs@gmail.com"
-        },
-        {
-            "id": "25",
-            "type": "Apartment",
-            "description": "Exclusive fully furnished Kilimani 2 Bedrooms apartment",
-            "location": "Naivasha",
-            "image": "https://images.prop24.com/jciwzq46aufsz2f2t3b7fwp4fy/Crop237x198",
-            "price": "1640",
-            "transactionType": "To rent",
-            "name": "Auma Nyambura",
-            "email": "aumanyambs@gmail.com"
-        },
-        {
-            "id": "26",
-            "type": "Townhouse",
-            "description": "4 bedroom townhouse within a compound of 6units Each Unit Sitting on 1/8acre Plots.",
-            "location": "Elgon View Area, Eldoret",
-            "image": "https://images.prop24.com/kidnvpeqjbvwyxxwf3csrsjcxu/Crop237x198",
-            "price": "125090",
-            "transactionType": "For sale",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
-        },
-        {
-            "id": "27",
-            "type": "Studio",
-            "description": "A stylish yet affordable studio to put comrades hearts at ease",
-            "location": "Westlands, Nairobi",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKsLj29hDYC-v5VEmU6yL6KHp8fptZKPt9w&usqp=CAU",
-            "price": "450",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
-        },
-        {
-            "id": "28",
-            "type": "Mansion",
-            "description": "Spacious 5 Bedroom Mansion equiped with a gym and swimming pool and a warm neighbourhood.",
-            "location": "Karen, Nairobi",
-            "image": "https://s3.us-east-2.amazonaws.com/images.propertypro.africa/large/OMaWJ7JNFKcVc05skaQD-0.jpeg",
-            "price": "327220",
-            "transactionType": "For sale",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
-        },
-        {
-            "id": "29",
-            "type": "Apartment",
-            "description": "A three bedroomed apartment with a welcoming neighbourhood and top notch security",
-            "location": "Elgon View Area, Eldoret",
-            "image": "https://images.prop24.com/ngpofwpdmcmkyxnp7lowdnezda/Crop237x198",
-            "price": "980",
-            "transactionType": "To rent",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
-        },
-        {
-            "id": "30",
-            "type": "House",
-            "description": "Newly built house soon to be home within a gated community -Lovely NEIGHBORHOOD -4 very spacious rooms -Modern finished",
-            "location": "Eldoret CBD, Eldoret",
-            "image": "https://images.prop24.com/gdnbkiignkgd6j6wem7hst4ku4/Crop237x198",
-            "price": "91800",
-            "transactionType": "For sale",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
         }
+
 
     ]
 
