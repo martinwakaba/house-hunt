@@ -7,6 +7,7 @@ const CommentForm = ({ addComment }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (comment.trim() !== '') {
+      alert("Email Sent!")
       addComment(comment);
       setComment('');
     }
@@ -15,7 +16,13 @@ const CommentForm = ({ addComment }) => {
   
 
   return (
+    <>
     <form className="comment-form" onSubmit={handleSubmit}>
+       <input
+        type="email"
+        id="emailInput"
+        placeholder="Enter your email"
+      />
     <textarea
       className="comment-textarea"
       placeholder="Enter your comment"
@@ -26,6 +33,8 @@ const CommentForm = ({ addComment }) => {
       Comment
     </button>
   </form>
+  <h2>Comments</h2>
+  </>
   );
 };
 

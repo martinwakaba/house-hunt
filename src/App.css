@@ -240,8 +240,22 @@ body {
   max-width: 400px;
   margin: 0 auto;
 }
+#emailInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none; 
+  font-size: 1.2em;
+}
 
-.comment-textarea {
+#emailInput::placeholder {
+  color: #999;
+}
+
+.comment-textarea{
   margin-bottom: 10px;
   padding: 8px;
   border: 1px solid #ddd;
