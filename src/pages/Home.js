@@ -70,8 +70,6 @@ function Home() {
               <p>Location: {house.location}</p>
               <p>Price: USD {house.price}</p>
               <p>Action: {house.transactionType}</p>
-              <p>Agent: {house.name}</p>
-              <p>Contact: {house.email}</p>
             </div>
           </div>
         ))}
