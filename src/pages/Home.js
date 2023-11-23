@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Footer from "../components/Footer";
 
 function Home() {
   const [houses, setHouses] = useState([]);
@@ -51,7 +52,7 @@ function Home() {
       </main>
 
       <section className="featured-properties">
-        <h2>Search Results</h2>
+        <h2>Houses</h2>
         <p className="featured-description">
         {filteredHouses.length === 0
             ? "No matches found."
@@ -75,6 +76,8 @@ function Home() {
           </div>
         ))}
       </section>
+        <Footer />
+     
     </>
   );
 }
