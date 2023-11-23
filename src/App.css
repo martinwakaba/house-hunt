@@ -45,7 +45,7 @@ body {
 }
 
 .nav-link:hover{
-  color: #2e342e9d;
+  color: #50695197;
   transform: scale(1.08);
 }
 
@@ -68,6 +68,9 @@ body {
   font-size: 4em; 
   font-family: 'Roboto', sans-serif; 
   color: #333; 
+}
+.section h2:hover{
+  color: #50695197;
 }
 
 .section p {
@@ -133,6 +136,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  
 }
 
 .card {
@@ -148,7 +152,11 @@ body {
 .card:hover {
   transform: scale(1.05);
   cursor: pointer;
+  background-color: #5069514f;
+  font-style: oblique;
+
 }
+
 
 .card img {
   width: 100%;
@@ -168,7 +176,9 @@ body {
   font-size: 1.1em;
   font-weight: 600;
 }
-
+.card-details:hover{
+  color: #0000008f;
+}
 .contact-container {
   max-width: 800px;
   margin: 0 auto;
