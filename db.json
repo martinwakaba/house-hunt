@@ -108,15 +108,7 @@
             "price": "2800",
             "transactionType": "To rent"
         },
-        {
-            "id": "13",
-            "type": "Apartment",
-            "description": "This fully furnished 4 bedroom penthouse is situated along Baobab road and offers spectacular views of the Indian Ocean.",
-            "location": "Nyali, Coast",
-            "image": "https://content.knightfrank.com/property/mbs190019/images/084105f7-ae98-4cb4-992e-d5b6c30051e0-0.jpg?cio=true&w=1200",
-            "price": "990",
-            "transactionType": "To rent"
-        },
+     
         {
             "id": "14",
             "type": "House",
