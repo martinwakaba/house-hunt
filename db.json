@@ -7,9 +7,7 @@
             "location": "Bus Stop, Nairobi",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ391FF3-DgHmlTy36Xpt38QrkwjLPIslVhVbeO7oZiA&s",
             "price": "5500000",
-            "transactionType": "For sale",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "2",
@@ -18,9 +16,7 @@
             "location": "Spring Valley, Nairobi",
             "image": "https://images.prop24.com/cl5ectnv4wsnifrfasi6rvqrfi/Crop676x507",
             "price": "14485",
-            "transactionType": "For sale",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "For sale"
         }, 
         {
             "id": "4",
@@ -29,20 +25,16 @@
             "location": "Karen, Nairobi",
             "image": "https://images.prop24.com/plm43pyj2j5iqnlqkqdvq2dgju/Crop237x198",
             "price": "660000",
-            "transactionType": "For sale",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "For sale"
         }, 
         {
             "id": "3",
             "type": "Studio",
             "description": "A conviniently placed apartment that serves the numerous amounts of institutions around for comrades.",
             "location": "Lower Kabete, Nairobi",
-            "image": "https://images.prop24.com/a347fanvb7h4qljs2lhmhjrnpi/Crop237x198",
-            "price": "132",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "image": "https://propscout.co.ke/storage/properties/files/furnished-apartments/thumbnails/-spacious-furnished-studio-apartment-for-rent-in-lavington-lpw27.jpg",
+            "price": "170",
+            "transactionType": "To rent"
         }, 
         {
             "id": "5",
@@ -51,9 +43,7 @@
             "location": "Kitusuri, Nairobi",
             "image": "https://images.prop24.com/ux4omkkonk2brbv5wdmemtru5i/Crop237x198",
             "price": "646000",
-            "transactionType": "For sale",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "For sale"
         }, 
         {
             "id": "6",
@@ -62,9 +52,7 @@
             "location": "Syokimau, Nairobi",
             "image": "https://images.prop24.com/zcqwg5b3sweqrv44sh2zvyi4cy/Crop237x198",
             "price": "1050",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "To rent"
         }, 
         {
             "id": "7",
@@ -73,9 +61,7 @@
             "location": "Lavington, Nairobi",
             "image": "https://images.prop24.com/t6zvk2icpeubit7mcfa5dunt4y/Crop237x198",
             "price": "1980",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "To rent"
         }, 
         {
             "id": "8",
@@ -84,9 +70,7 @@
             "location": "Westlands, Nairobi",
             "image": "https://images.prop24.com/b7lrqtaurfhzk3cpm2oollol2i/Crop237x198",
             "price": "1450450",
-            "transactionType": "For sale",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "For sale"
         }, 
         {
             "id": "1",
@@ -95,9 +79,7 @@
             "location": "Ongata Rongai, Nairobi",
             "image": "https://www.businessdailyafrica.com/resource/blob/2129122/fca89506d4bfccea0b065f92259df777/pent1-data.jpg",
             "price": "165",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "To rent"
         }, 
         {
             "id": "10",
@@ -106,9 +88,7 @@
             "location": "Kileleshwa, Nairobi",
             "image": "https://i.roamcdn.net/prop/brk/listing-full-1920w/8b51e227eb64e14f65ad83be7610dd2a/-/prod-property-core-backend-media-brk/6034315/50839670-8b83-4f43-b7cc-0b6ef312b307.jpg",
             "price": "93000",
-            "transactionType": "For sale",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
+            "transactionType": "For sale"
         }, 
         {
             "id": "11",
@@ -117,9 +97,7 @@
             "location": "Tudor Creek, Mombasa",
             "image": "https://content.knightfrank.com/property/hub2303221/images/26a677ac-ce18-42a7-9986-ffa56190148a-0.jpg?cio=true&w=1200",
             "price": "118108",
-            "transactionType": "For sale",
-            "name": "Caith Wangari",
-            "email": "cawaka1996@gmail.com"
+            "transactionType": "For sale"
         }, 
         {
             "id": "12",
@@ -128,9 +106,7 @@
             "location": "Nyali, Mombasa",
             "image": "https://content.knightfrank.com/property/mbs180010/images/d59c8951-7c92-4512-8e25-2d5ddcb0d0a1-0.jpg?cio=true&w=1200",
             "price": "2800",
-            "transactionType": "To rent",
-            "name": "Caith Wangari",
-            "email": "cawaka1996@gmail.com"
+            "transactionType": "To rent"
         },
         {
             "id": "13",
@@ -139,9 +115,7 @@
             "location": "Nyali, Coast",
             "image": "https://content.knightfrank.com/property/mbs190019/images/084105f7-ae98-4cb4-992e-d5b6c30051e0-0.jpg?cio=true&w=1200",
             "price": "990",
-            "transactionType": "To rent",
-            "name": "Caith Wangari",
-            "email": "cawaka1996@gmail.com"
+            "transactionType": "To rent"
         },
         {
             "id": "14",
@@ -150,9 +124,7 @@
             "location": "Shanzu, Mombasa",
             "image": "https://images.prop24.com/n2rl3iy2wtx34bckyaxff45dje/Crop237x198",
             "price": "855910",
-            "transactionType": "For sale",
-            "name": "Caith Wangari",
-            "email": "cawaka1996@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "15",
@@ -161,9 +133,7 @@
             "location": "Nyali, Mombasa",
             "image": "https://images.prop24.com/upi5lokifhhs7i332nfuevperi/Crop237x198",
             "price": "79000",
-            "transactionType": "For sale",
-            "name": "Caith Wangari",
-            "email": "cawaka1996@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "16",
@@ -172,9 +142,7 @@
             "location": "Nanyuki, Naivasha",
             "image": "https://images.prop24.com/goy5ozyod36f3sm7l5hpctyaju/Crop237x198",
             "price": "2170",
-            "transactionType": "For sale",
-            "name": "Juma Wanjiru",
-            "email": "wanjiru123@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "17",
@@ -183,9 +151,7 @@
             "location": "Mugambi, Naivasha",
             "image": "https://images.prop24.com/m2tggpknftibw2nigc3nwvybkq/Crop237x198",
             "price": "138260",
-            "transactionType": "For sale",
-            "name": "Juma Wanjiru",
-            "email": "wanjiru123@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "18",
@@ -194,9 +160,7 @@
             "location": "Naivasha",
             "image": "https://images.prop24.com/bduchof6ithfjxvjyipp4bxfia/Crop237x198",
             "price": "115220",
-            "transactionType": "For sale",
-            "name": "Juma Wanjiru",
-            "email": "wanjiru123@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "19",
@@ -205,9 +169,7 @@
             "location": "Naivasha",
             "image": "https://images.prop24.com/fbiu5iqkzholqejpoirnqqf6uq/Crop237x198",
             "price": "362100",
-            "transactionType": "For sale",
-            "name": "Juma Wanjiru",
-            "email": "wanjiru123@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "20",
@@ -216,9 +178,7 @@
             "location": "Runda, Nairobi",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgkXX7hM6MgryoVTbV8rYgmKUqvglInuBjoA&usqp=CAU",
             "price": "2290",
-            "transactionType": "To rent",
-            "name": "Juma Wanjiru",
-            "email": "wanjiru123@gmail.com"
+            "transactionType": "To rent"
         },
         {
             "id": "21",
@@ -227,9 +187,7 @@
             "location": "South Lake Road, Naivasha",
             "image": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/73444be8ac0cf2fa0228161903803041/-/prod-property-core-backend-media-brk/4469060/2fb3bb31-abbd-4901-9bf0-67ec9ac80304.jpeg",
             "price": "1086350",
-            "transactionType": "For sale",
-            "name": "Auma Nyambura",
-            "email": "aumanyambs@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "22",
@@ -238,9 +196,7 @@
             "location": "Greenpark, Naivasha",
             "image": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/debd222bc89649f7ded5c24e7827867e/-/prod-property-core-backend-media-brk/4227035/fa92dc37-2df5-4743-b09e-fad08d569d79.jpg",
             "price": "480000",
-            "transactionType": "For sale",
-            "name": "Auma Nyambura",
-            "email": "aumanyambs@gmail.com"
+            "transactionType": "For sale"
         },
         {
             "id": "23",
@@ -249,9 +205,7 @@
             "location": "Naivasha",
             "image": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/f0134cf9778a165ad2f2eb68ed064770/-/prod-property-core-backend-media-brk/4850840/084c95fd-cd05-4b4a-99da-ab0876894c1d.jpeg",
             "price": "790",
-            "transactionType": "To rent",
-            "name": "Auma Nyambura",
-            "email": "aumanyambs@gmail.com"
+            "transactionType": "To rent"
         },
         {
             "id": "24",
@@ -260,77 +214,8 @@
             "location": "Naivasha Nakuru County, Naivasha",
             "image": "https://images.prop24.com/sey3yv7wvsab4lx5mnpl3lqiya/Crop237x198",
             "price": "360655",
-            "transactionType": "For sale",
-            "name": "Auma Nyambura",
-            "email": "aumanyambs@gmail.com"
-        },
-        {
-            "id": "25",
-            "type": "Apartment",
-            "description": "Exclusive fully furnished Kilimani 2 Bedrooms apartment",
-            "location": "Naivasha",
-            "image": "https://images.prop24.com/jciwzq46aufsz2f2t3b7fwp4fy/Crop237x198",
-            "price": "1640",
-            "transactionType": "To rent",
-            "name": "Auma Nyambura",
-            "email": "aumanyambs@gmail.com"
-        },
-        {
-            "id": "26",
-            "type": "Townhouse",
-            "description": "4 bedroom townhouse within a compound of 6units Each Unit Sitting on 1/8acre Plots.",
-            "location": "Elgon View Area, Eldoret",
-            "image": "https://images.prop24.com/kidnvpeqjbvwyxxwf3csrsjcxu/Crop237x198",
-            "price": "125090",
-            "transactionType": "For sale",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
-        },
-        {
-            "id": "27",
-            "type": "Studio",
-            "description": "A stylish yet affordable studio to put comrades hearts at ease",
-            "location": "Westlands, Nairobi",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKsLj29hDYC-v5VEmU6yL6KHp8fptZKPt9w&usqp=CAU",
-            "price": "450",
-            "transactionType": "To rent",
-            "name": "Kenneth Thuo",
-            "email": "ketkahthuo@gmail.com"
-        },
-        {
-            "id": "28",
-            "type": "Mansion",
-            "description": "Spacious 5 Bedroom Mansion equiped with a gym and swimming pool and a warm neighbourhood.",
-            "location": "Eldoret CBD, Eldoret",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiamondcityvillas.com%2Fproperties%2Fhouses-for-sale%2Fwindy-ridge%2F5-bedroomed-double-storey-on-0-5-acre-in-a-gated-community-for-sale-in-karen%2F&psig=AOvVaw0x6Zz6OGMAegb25Wz0QEoc&ust=1700732250730000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDxtq2n14IDFQAAAAAdAAAAABAD",
-            "price": "530",
-            "transactionType": "To rent",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
-        },
-        {
-            "id": "29",
-            "type": "Apartment",
-            "description": "A three bedroomed apartment with a welcoming neighbourhood and top notch security",
-            "location": "Elgon View Area, Eldoret",
-            "image": "https://images.prop24.com/ngpofwpdmcmkyxnp7lowdnezda/Crop237x198",
-            "price": "980",
-            "transactionType": "To rent",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
-        },
-        {
-            "id": "30",
-            "type": "House",
-            "description": "Newly built house soon to be home within a gated community -Lovely NEIGHBORHOOD -4 very spacious rooms -Modern finished",
-            "location": "Eldoret CBD, Eldoret",
-            "image": "https://images.prop24.com/gdnbkiignkgd6j6wem7hst4ku4/Crop237x198",
-            "price": "91800",
-            "transactionType": "For sale",
-            "name": "Muthoni Gichuru",
-            "email": "muthoni@gmail.com"
+            "transactionType": "For sale"
         }
-
     ]
 
 }
