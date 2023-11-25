@@ -7,7 +7,7 @@ function Home() {
   const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
-    fetch("http://localhost:3000/houses")
+    fetch("https://backend-w11k.onrender.com/houses")
       .then((res) => res.json())
       .then((houses) => {
         console.log(houses);
@@ -55,7 +55,8 @@ function Home() {
         <h2>Properties</h2>
         <p className="featured-description">
         {filteredHouses.length === 0
-            ? "No matches found."
+           
+             ? "No matches found."
             : "Displaying Available properties "}
         </p>
       </section>

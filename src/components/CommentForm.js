@@ -33,7 +33,8 @@ const CommentForm = ({ addComment }) => {
       Comment
     </button>
   </form>
-  <h2>Comments</h2>
+  <h2 className='h2'>Comments</h2>
+
   </>
   );
 };
